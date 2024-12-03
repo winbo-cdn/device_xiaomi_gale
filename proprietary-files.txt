@@ -1187,7 +1187,7 @@ system_ext/framework/mediatek-telecom-common.jar:system/framework/mediatek-telec
 system_ext/framework/mediatek-telephony-base.jar:system/framework/mediatek-telephony-base.jar|6248b5b3fcf935ef59ab3c20b0c11a104e8fbe79
 system_ext/framework/mediatek-telephony-common.jar:system/framework/mediatek-telephony-common.jar|c52e8259fcfe7f3aa32a569a4ba59d9826551dbc
 system_ext/lib64/libcomutils.so|fae6b5fd7628518eaf3e3eadac2133dd83f30839
-system_ext/lib64/libimsma.so|6e754e450f7d2a83b458ea617919aa50da68fdfa
+system_ext/lib64/libimsma.so;DISABLE_DEPS
 system_ext/lib64/libimsma_adapt.so|87682d1ecd12331841ce3b9f6eb04822a6725488
 system_ext/lib64/libimsma_rtp.so|25b249764ba9df7d89f3af209f38e4cb4993ddb3
 system_ext/lib64/libimsma_socketwrapper.so|5a26aae9eee36b9e5dc8875aa68b20ced2e1b676
