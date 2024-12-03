@@ -25,4 +25,8 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="vnd_gale-user 12 SP1A.210812.016 V816.0.5.0.UGPMIXM release-keys"
 
+    CIPHER_GAPPS := true
+
+    CIPHER_MAINTAINER := winbo.yml
+
 BUILD_FINGERPRINT := alps/vnd_gale/gale:12/SP1A.210812.016/V816.0.5.0.UGPMIXM:user/release-keys
